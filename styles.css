@@ -60,7 +60,7 @@
 .e8_63 { 
 	width:700px;
 	height:700px;
-	position:fixed;
+	position:absolute;
 	left:0px;
 	top:0px;
 	background-image:url(images/rectangle_1.png);
@@ -70,7 +70,7 @@
 .e8_68 { 
 	width:700px;
 	height:700px;
-	position:fixed;
+	position:absolute;
 	left:0px;
 	top:1400px;
 	background-image:url(images/rectangle_6.png);
@@ -80,7 +80,7 @@
 .e8_64 { 
 	width:700px;
 	height:700px;
-	position:fixed;
+	position:absolute;
 	left:700px;
 	top:0px;
 	background-image:url(images/rectangle_2.png);
@@ -90,7 +90,7 @@
 .e8_67 { 
 	width:700px;
 	height:700px;
-	position:fixed;
+	position:absolute;
 	left:700px;
 	top:1400px;
 	background-image:url(images/rectangle_5.png);
@@ -100,7 +100,7 @@
 .e8_66 { 
 	width:700px;
 	height:700px;
-	position:fixed;
+	position:absolute;
 	left:700px;
 	top:700px;
 	background-image:url(images/rectangle_4.png);
@@ -110,7 +110,7 @@
 .e8_65 { 
 	width:700px;
 	height:700px;
-	position:fixed;
+	position:absolute;
 	left:0px;
 	top:700px;
 	background-image:url(images/rectangle_3.png);
